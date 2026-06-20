@@ -1,0 +1,36 @@
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.7;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+
+  background: #ffffff;
+  color: #222;
+}
+
+h1 {
+  margin-bottom: 0;
+}
+
+.intro {
+  color: #666;
+}
+
+.recipe-list {
+  padding-left: 20px;
+}
+
+a {
+  color: #0f62fe;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+}
