@@ -86,3 +86,37 @@ img {
   font-size: 0.85rem;
   margin-right: 8px;
 }
+
+.recipe-header img {
+  width: 100%;
+  border-radius: 12px;
+  margin-top: 16px;
+}
+
+.recipe-meta {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  color: #666;
+}
+
+.badge {
+  display: inline-block;
+  background: #f2f2f2;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.9rem;
+}
+
+.journal-note {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 24px 0;
+}
+
+.journal-note ul {
+  margin-bottom: 0;
+}
